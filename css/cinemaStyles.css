@@ -9,4 +9,6 @@
     height: 15vw;
     object-fit: cover;
 }	
-
+.bg-info {
+	background-color: #9b2a2a;
+  }
